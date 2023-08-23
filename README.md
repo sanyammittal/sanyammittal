@@ -1,7 +1,7 @@
 <img src="https://camo.githubusercontent.com/2ccd5618565342a408e4b416d9a6bfb3ea0348471f55a300a0493a5a8533d18d/68747470733a2f2f64726a706c6f7065732e636f6d2f6d656469612f426c6f6742616e6e6572732f48656c6c6f2d576f726c645f42616e6e65722e706e67" alt="banner">
 
 <h1 align="center">Hi 👋, I'm Sanyam Mittal</h1>
-<h3 align="center">A passionate WEBSITE and JAVA developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 <img width = "350px" height="250px" align="right" alt="coding" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyammittal&label=Profile%20views&color=0e75b6&style=flat" alt="sanyammittal" /> </p>
