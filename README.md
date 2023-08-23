@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Java, C, HTML, CSS, JQUERY, HIBERNATE, SPRING,JAVASCRIPT**
+- 💬 Ask me about **Java, C, HTML, CSS, JQUERY, HIBERNATE, SPRING, JAVASCRIPT, REACT JS**
 
 - 📫 How to reach me **sanyammittal60@gmail.com**
 
