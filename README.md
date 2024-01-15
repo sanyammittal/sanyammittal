@@ -1,6 +1,6 @@
 ![MasterHead](https://drjplopes.com/media/BlogBanners/Hello-World_Banner.png)
 <h1 align="center">Hi 👋, I'm Sanyam Mittal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://img.freepik.com/premium-vector/utch-man-viewed-from-side-behind-laptop-02-copy-5-01_961307-1185.jpg">
 
 - 🔭 I’m currently working on **MERN**
